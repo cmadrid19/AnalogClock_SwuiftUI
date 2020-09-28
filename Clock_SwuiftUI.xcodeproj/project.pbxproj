@@ -11,6 +11,7 @@
 		9E3B399A2521FCCA00B0EDE3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E3B39992521FCCA00B0EDE3 /* ContentView.swift */; };
 		9E3B399C2521FCCD00B0EDE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E3B399B2521FCCD00B0EDE3 /* Assets.xcassets */; };
 		9E3B399F2521FCCD00B0EDE3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E3B399E2521FCCD00B0EDE3 /* Preview Assets.xcassets */; };
+		9E3B39AC2522210C00B0EDE3 /* AnalogClock.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E3B39AB2522210C00B0EDE3 /* AnalogClock.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		9E3B399B2521FCCD00B0EDE3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E3B399E2521FCCD00B0EDE3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		9E3B39A02521FCCD00B0EDE3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9E3B39AB2522210C00B0EDE3 /* AnalogClock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnalogClock.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				9E3B39972521FCCA00B0EDE3 /* Clock_SwuiftUIApp.swift */,
 				9E3B39992521FCCA00B0EDE3 /* ContentView.swift */,
+				9E3B39AB2522210C00B0EDE3 /* AnalogClock.swift */,
 				9E3B399B2521FCCD00B0EDE3 /* Assets.xcassets */,
 				9E3B39A02521FCCD00B0EDE3 /* Info.plist */,
 				9E3B399D2521FCCD00B0EDE3 /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9E3B39AC2522210C00B0EDE3 /* AnalogClock.swift in Sources */,
 				9E3B399A2521FCCA00B0EDE3 /* ContentView.swift in Sources */,
 				9E3B39982521FCCA00B0EDE3 /* Clock_SwuiftUIApp.swift in Sources */,
 			);
